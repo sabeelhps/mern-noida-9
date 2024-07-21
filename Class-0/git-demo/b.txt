@@ -1,0 +1,2 @@
+This is a file with name b.txt
+This is my second file.
